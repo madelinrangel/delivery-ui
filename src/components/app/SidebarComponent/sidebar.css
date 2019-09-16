@@ -1,0 +1,12 @@
+.sidebar {
+    grid-row: 1/4;
+    grid-column: 1;
+    background-color: #eee;
+}
+
+.sidebar-smart-filter {
+    display: flex;
+    flex-flow: column wrap; 
+    align-items: center;
+    align-content: center;
+}

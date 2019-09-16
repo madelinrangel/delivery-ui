@@ -1,0 +1,15 @@
+.menu-top {
+    grid-row: 1;
+    grid-column: 2/4;
+    background-color: #eee;
+}
+
+.menu-top__section {
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    width: 90%;
+    margin: 4% auto;
+}

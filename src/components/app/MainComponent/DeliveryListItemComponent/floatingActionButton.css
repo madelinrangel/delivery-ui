@@ -1,0 +1,11 @@
+.button-add {
+    background-color: #ee8d38 !important;
+    color: #fff;
+    position: absolute !important;
+    right: 3%;
+    top: 83%;
+}
+
+.button-add:hover {
+    background-color: #f97705 !important;
+}

@@ -1,0 +1,10 @@
+.list-items {
+    color: #686868;
+    display: flex;
+    flex-flow: column wrap;    
+}
+
+.list-item__logo-add {
+    color: #ee8d38;
+    font-size: 4.5em !important;
+}

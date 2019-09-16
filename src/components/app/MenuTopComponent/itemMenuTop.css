@@ -1,0 +1,13 @@
+.menu-top__item {
+    flex: 1;
+    text-align: center;
+    padding: 0.4em 0;
+    color: #383838;
+    font: bold 80% monospace;
+    font-family: sans-serif;
+}
+
+.menu-top__item:hover {
+    color: #fff;
+    background: #193948;
+}

@@ -1,0 +1,14 @@
+.smart-filter__items {
+    flex: 1;
+    margin: 0.6em auto;
+}
+
+.smart-filter__item-logo {
+    color: #686868;
+    font-size: 2.5em !important;
+    margin: 0 0.4em;
+}
+
+.smart-filter__item-siwtch {
+    margin: 0.4em 0.4em;
+}

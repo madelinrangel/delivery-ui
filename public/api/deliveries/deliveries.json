@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "departureDate": "2019-10-17T03:24:00",
+    "dispatched": false,
+    "departure": {
+      "city": {
+        "name": "Houston",
+        "zipCode": "77001"
+      },
+      "state": {
+        "name": "Texas",
+        "abbreviation": "TX"
+      }
+    },
+    "arrival": {
+      "city": {
+        "name": "Atlanta",
+        "zipCode": "30301"
+      },
+      "state": {
+        "name": "Georgia",
+        "abbreviation": "GA"
+      }
+    },
+    "price": "250",
+    "numberOfPackages": 1,
+    "favorite": true
+  },
+  {
+    "id": 2,
+    "departureDate": "2019-10-17T03:24:00",
+    "dispatched": false,
+    "departure": {
+      "city": {
+        "name": "Denver",
+        "zipCode": "80014"
+      },
+      "state": {
+        "name": "Colorado",
+        "abbreviation": "CO"
+      }
+    },
+    "arrival": {
+      "city": {
+        "name": "Baltimore",
+        "zipCode": "21201"
+      },
+      "state": {
+        "name": "Maryland",
+        "abbreviation": "MD"
+      }
+    },
+    "price": "325",
+    "numberOfPackages": 4,
+    "favorite": false
+  },
+  {
+    "id": 3,
+    "departureDate": "2019-10-17T03:24:00",
+    "dispatched": false,
+    "departure": {
+      "city": {
+        "name": "Phoenix",
+        "zipCode": "85001"
+      },
+      "state": {
+        "name": "Arizona",
+        "abbreviation": "AZ"
+      }
+    },
+    "arrival": {
+      "city": {
+        "name": "Detroit",
+        "zipCode": "48127"
+      },
+      "state": {
+        "name": "Michigan",
+        "abbreviation": "MI"
+      }
+    },
+    "price": "450",
+    "numberOfPackages": 2,
+    "favorite": false
+  }
+]
